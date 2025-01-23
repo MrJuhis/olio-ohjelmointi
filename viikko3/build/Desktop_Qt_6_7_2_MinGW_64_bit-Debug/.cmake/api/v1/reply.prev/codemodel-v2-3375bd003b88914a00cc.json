@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3af158ff729a5b59ecd8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "viikko3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "viikko3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-viikko3-Debug-111e5b62a815b03d980e.json",
+					"name" : "viikko3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Programs/OAMK/Olio-ohjelmointi/olio-ohjelmointi/viikko3/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "F:/Programs/OAMK/Olio-ohjelmointi/olio-ohjelmointi/viikko3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
