@@ -14,7 +14,10 @@ public:
     {return nimi;}
 
     Seuraaja* next = nullptr;
-    void paivitys(string);
+
+    void paivitys(string A){
+        cout << "Seuraaja " << nimi << " sai viestin: " << A << endl;
+    }
 private:
     string nimi;
 };
@@ -66,7 +69,7 @@ public:
 
         Seuraaja* current = seuraajat;
         while (current != nullptr) {
-            cout << "Seuraaja " << current->getNimi() << " sai viestin: " << A << endl;
+            current->paivitys(A);
             current = current->next;
         }
     }
