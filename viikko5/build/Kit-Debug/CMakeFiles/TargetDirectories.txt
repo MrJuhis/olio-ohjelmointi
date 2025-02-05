@@ -1,0 +1,6 @@
+C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko5/build/Kit-Debug/CMakeFiles/viikko5.dir
+C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko5/build/Kit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko5/build/Kit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko5/build/Kit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko5/build/Kit-Debug/CMakeFiles/install.dir
+C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko5/build/Kit-Debug/CMakeFiles/install/local.dir
