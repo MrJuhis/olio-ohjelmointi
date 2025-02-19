@@ -1,0 +1,8 @@
+C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko7/build/Desktop_Qt_6_8_2_MSVC2022_ARM64-Debug/CMakeFiles/viikko7.dir
+C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko7/build/Desktop_Qt_6_8_2_MSVC2022_ARM64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko7/build/Desktop_Qt_6_8_2_MSVC2022_ARM64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko7/build/Desktop_Qt_6_8_2_MSVC2022_ARM64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko7/build/Desktop_Qt_6_8_2_MSVC2022_ARM64-Debug/CMakeFiles/install.dir
+C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko7/build/Desktop_Qt_6_8_2_MSVC2022_ARM64-Debug/CMakeFiles/install/local.dir
+C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko7/build/Desktop_Qt_6_8_2_MSVC2022_ARM64-Debug/CMakeFiles/viikko7_autogen_timestamp_deps.dir
+C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko7/build/Desktop_Qt_6_8_2_MSVC2022_ARM64-Debug/CMakeFiles/viikko7_autogen.dir

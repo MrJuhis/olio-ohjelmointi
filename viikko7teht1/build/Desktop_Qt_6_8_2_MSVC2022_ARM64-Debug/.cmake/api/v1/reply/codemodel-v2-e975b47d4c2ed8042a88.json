@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-de7a6103c7deffdd2087.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "viikko7",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "viikko7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-viikko7-Debug-ed16517a3527f0f4199f.json",
+					"name" : "viikko7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "viikko7_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-viikko7_autogen-Debug-a2d9faf61721ca0de8ef.json",
+					"name" : "viikko7_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "viikko7_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-viikko7_autogen_timestamp_deps-Debug-a9332f4f4ae8d46befa3.json",
+					"name" : "viikko7_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko7/build/Desktop_Qt_6_8_2_MSVC2022_ARM64-Debug",
+		"source" : "C:/Users/juham/Documents/GitHub/olio-ohjelmointi/viikko7"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
